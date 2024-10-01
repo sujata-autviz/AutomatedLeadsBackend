@@ -1,0 +1,6 @@
+@RetriveLeads_HostAddress = http://localhost:5073
+
+GET {{RetriveLeads_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
